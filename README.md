@@ -1,4 +1,4 @@
-# Claims Denial Prediction with Hierarchical Reasoning Machine (HRM)
+# Claims Denial Prediction with Hierarchical Reasoning Model (HRM)
 
 A deep learning model for predicting insurance claims denial status and denial codes using a novel Hierarchical Reasoning Machine architecture optimized for tabular data.
 
