@@ -258,10 +258,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @misc{hrm_claims_prediction,
-  title={Hierarchical Reasoning Machine for Insurance Claims Denial Prediction},
-  author={Your Name},
+  title={Hierarchical Reasoning Model for Insurance Claims Denial Prediction},
+  author={Arun Chiriyankandath},
   year={2024},
-  url={https://github.com/yourusername/claims-denial-prediction}
+  url={https://github.com/arunchiri/CLM}
 }
 ```
 
