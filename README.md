@@ -260,7 +260,7 @@ If you use this code in your research, please cite:
 @misc{hrm_claims_prediction,
   title={Hierarchical Reasoning Model for Insurance Claims Denial Prediction},
   author={Arun Chiriyankandath},
-  year={2024},
+  year={2025},
   url={https://github.com/arunchiri/CLM}
 }
 ```
